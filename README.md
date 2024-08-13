@@ -8,7 +8,7 @@ Implementation of facial emotion recognition from the scratch. The work flow is 
 Dowload the checkpoint path epoch=135-step=30600.ckpt in section 3 (deploy the model):
 https://drive.google.com/file/d/13dYuiq_ijo0hMZ21bKEsUpJt-Hgfrb9e/view?usp=drive_link
 
-# Youtube video
+# Youtube videos
 1. https://www.youtube.com/watch?v=5WzurhOr6QI&t=1797s
 2. https://www.youtube.com/watch?v=VwKre5aScr8&t=950s
 
